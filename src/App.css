@@ -1,0 +1,20 @@
+/* En tu archivo CSS o SCSS */
+/* .bg-gradient {
+  background: linear-gradient(rgb(134, 161, 224),red);
+  -webkit-background-clip: text;
+  color: transparent;  
+} */
+.bg-gradient {
+  background: linear-gradient(rgb(16, 14, 14),rgb(134, 161, 224));
+  -webkit-background-clip: text;
+  color: transparent;  
+}
+.block {
+  background: linear-gradient(rgb(239, 235, 235),rgb(124, 150, 209));
+  -webkit-background-clip: text;
+  color: transparent;  
+}
+
+body{
+  background-color: black;
+}
